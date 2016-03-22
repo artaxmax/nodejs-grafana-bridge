@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-grafana-bridge",
+  "version": "0.0.0",
+  "description": "nodejs data bridge for grafana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artaxmax/nodejs-grafana-bridge.git"
+  },
+  "author": "Arturas Dmitrukas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artaxmax/nodejs-grafana-bridge/issues"
+  },
+  "homepage": "https://github.com/artaxmax/nodejs-grafana-bridge",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
